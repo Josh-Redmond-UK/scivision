@@ -165,6 +165,17 @@
         "ecology",
         "environmental-science"
       ]
+    },
+    {
+      "name": "data-007",
+      "description": "Images of pollen grains, suitable for image classification, taken from https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157044",
+      "tasks":["classification"],
+      "domains":["computer-vision", "ecology", "optical-microscopy"],
+      "url":"https://github.com/lizhiqihhh/dataset-Turing",
+      "format":"image",
+      "labels_provided":false,
+      "institution":"Dom Bosco Catholic University",
+      "tags":["2D", "ecology", "environmental-science"]
     }
   ]
 }
