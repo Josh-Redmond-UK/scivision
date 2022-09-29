@@ -268,6 +268,26 @@
         "ecology",
         "environmental-science"
       ]
+    },
+    {
+      "name": "Pollen-Grain-DL",
+      "tasks": [
+        "classification"
+      ],
+      "url": "https://github.com/Josh-Redmond-UK/pollen_classification_model",
+      "pkg_url": "git+https://github.com/Josh-Redmond-UK/pollen_classification_model.git",
+      "format": "image",
+      "pretrained": true,
+      "labels_required": false,
+      "institution": [
+        "Dom Bosco Catholic University"
+      ],
+      "tags": [
+        "2D",
+        "optical-microscopy",
+        "ecology",
+        "environmental-science"
+      ]
     }
   ]
 }
